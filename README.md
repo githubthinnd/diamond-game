@@ -1,2 +1,2 @@
-# omr-sheet-python
-Scoring multiple-choice tests
+# snake-hunting-game
+Snake hunting game
