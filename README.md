@@ -1,2 +1,2 @@
-# snake-hunting-game
-Snake hunting game
+# diamond-game
+Diamond game
