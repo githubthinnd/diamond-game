@@ -1,2 +1,2 @@
-# omr-sheet-python
-Scoring multiple-choice tests
+# diamond-game
+Diamond game
